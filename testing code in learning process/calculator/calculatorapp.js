@@ -2,8 +2,8 @@
 
     let screen = document.querySelector('.screen');
     let buttons = document.querySelectorAll('.btn');
-    let clear = document.querySelector('.equal-green');
-    let equal = document.querySelector('.clear-red');
+    let equal = document.querySelector('.equal-green');
+    let clear = document.querySelector('.clear-red');
 
     buttons.forEach(function(button)
     {
